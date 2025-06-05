@@ -1,0 +1,4 @@
+### dependency
+streamlit
+pandas
+fpdf2
